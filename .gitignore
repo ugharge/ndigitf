@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+terraform.tfvars
+terraform.tfvars.json
+.venv/
+__pycache__/
+local.settings.json
+.azurite/
